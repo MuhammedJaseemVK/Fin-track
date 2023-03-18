@@ -1,6 +1,6 @@
 import './globals.css'
 
-import Nav from '@/components/navigation'; 
+import Nav from '@/components/Navigation'; 
 
 export const metadata = {
   title: 'Create Next App',
